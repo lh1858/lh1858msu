@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Lu He 何璐
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Lu
+last_name: He
 
 # Status emoji
 status:
@@ -14,34 +14,34 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Instructor of Supply Chain Management
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Mississippi State University
+    url: https://www.business.msstate.edu/directory/lh1858
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include systematic resource optimization, multitask prediction, and two-phase mixed integer programming.
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Resource Optimization
+  - Decision Support System
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Industrial and Systems Engineering
+      institution: State University of New York at Binghamton
+      year: 2020
+    - course: MS in Industrial and Systems Engineering
+      institution: State University of New York at Binghamton
+      year: 2015
+    - course: BM in Logistics Management
+      institution: Southeast University
+      year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
