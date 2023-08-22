@@ -27,13 +27,9 @@ abstract: Inpatient unit resources are among the most expensive and valuable res
 
 # Summary. An optional shortened abstract.
 highlights: • Proposes an ANN-based MTL model for predicting inpatient flow and LOS simultaneously.
-
 • The proposed MTL model works for mixed tasks including regression and classification.
-
 • Describes a systematic method to collect and clean datasets of inpatient flow.
-
 • Tests the proposed methodology on a real-life dataset from a large hospital in NY.
-
 • Compares results of the proposed MTL models with equivalent single-task models.
 
 tags:
