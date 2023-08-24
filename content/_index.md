@@ -44,7 +44,7 @@ sections:
           company: Mississippi State University
           company_url: ''
           company_logo: 
-          location: Starkville, MS
+          location: Starkville
           date_start: '2021-06-01'
           date_end: ''
           description:|2-Taught online and face-to-face sessions of
@@ -54,7 +54,7 @@ sections:
           company: University of Arkansas of Medical Science
           company_url: ''
           company_logo: org-x
-          location: Little Rock, AK
+          location: Little Rock
           date_start: '2021-01-01'
           date_end: '2021-06-01'
           description: Taught data mining in healthcare.
@@ -62,7 +62,7 @@ sections:
           company: Mount Sinai Health System
           company_url: ''
           company_logo: 
-          location: Manhattan, NY
+          location: Manhattan
           date_start: '2017-03-01'
           date_end: '2019-07-01'
           description: Collaborated with system-wide healthcare departments among 7 hospital campuses to assess their current processes using Lean Six Sigma.
@@ -70,7 +70,7 @@ sections:
           company: The State University of New York at Binghamton	
           company_url: ''
           company_logo: 
-          location: Binghamton, NY
+          location: Binghamton
           date_start: '2016-01-01'
           date_end: '2020-12-01'
           description: Facilitated and maintained 20 Lean Six Sigma Yellow Belt, Green Belt, and Black Belt programs for both industries and academic organizations. The program sizes range from 9 to 152.   
