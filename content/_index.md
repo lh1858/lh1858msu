@@ -65,7 +65,7 @@ sections:
           location: Manhattan, NY
           date_start: '2017-03-01'
           date_end: '2019-07-01'
-          description: Collaborated with system-wide healthcare departments among 7 hospital campuses to assess their current processes using Lean Six Sigma, further identifying opportunities in reducing non-value-added activities, optimizing staffing and appointment scheduling, and analyzing monthly performance reports.
+          description: Collaborated with system-wide healthcare departments among 7 hospital campuses to assess their current processes using Lean Six Sigma.
         - title: Lean Six Sigma Program Teaching Assistant
           company: The State University of New York at Binghamton	
           company_url: ''
