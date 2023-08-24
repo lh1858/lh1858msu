@@ -47,9 +47,10 @@ sections:
           location: Starkville
           date_start: '2021-06-01'
           date_end: ''
-          description:|2-Taught online and face-to-face sessions of
-             * Business Decision Analysis
-             * Statistical Analysis and Business Decisions, International Logistics, and International Supply Chain Management.
+          description:|2-
+              Taught online and face-to-face sessions of
+               * Business Decision Analysis
+               * Statistical Analysis and Business Decisions, International Logistics, and International Supply Chain Management.
         - title: Assistant Professor of Public Health Department
           company: University of Arkansas of Medical Science
           company_url: ''
