@@ -33,7 +33,7 @@ sections:
       title: Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
-      # date_format: Jan 2006
+       date_format: Jan 2006
       # Experiences.
       #   Add/remove as many `experience` items below as you like.
       #   Required fields are `title`, `company`, and `date_start`.
@@ -59,7 +59,7 @@ sections:
           date_end: '2021-06-01'
           description: Taught data mining in healthcare.
     
-     - title: Research Associate in Department of Strategic Operations and Implementation
+        - title: Research Associate in Department of Strategic Operations and Implementation
           company: Mount Sinai Health System
           company_url: ''
           company_logo: 
@@ -78,8 +78,7 @@ sections:
           date_start: '2016-01-01'
           date_end: '2020-12-01'
           description:
-             Facilitated and maintained 20 Lean Six Sigma Yellow Belt, Green Belt, and Black Belt programs for both industries and academic organizations. The program sizes range from 9 to 152.
-       
+             Facilitated and maintained 20 Lean Six Sigma Yellow Belt, Green Belt, and Black Belt programs for both industries and academic organizations. The program sizes range from 9 to 152.   
     design:
       columns: '2'
   - block: accomplishments
