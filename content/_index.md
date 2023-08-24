@@ -17,17 +17,18 @@ sections:
       title: Skills
       items:
         - name: R
-          description: 90%
+        #  description: 90%
           icon: r-project
           icon_pack: fab
         - name: Statistics
-          description: 100%
+     #     description: 100%
           icon: chart-line
           icon_pack: fas
-        - name: Photography
-          description: 10%
+        - name: Python
+       #   description: 10%
           icon: camera-retro
           icon_pack: fas
+        - name: CPLEX
   - block: experience
     content:
       title: Experience
@@ -47,17 +48,38 @@ sections:
           location: Starkville, MS
           date_start: 'June 2021'
           date_end: ''
-          description: |2-
+          description:
              Taught online and face-to-face sessions of Business Decision Analysis, Statistical Analysis and Business Decisions, International Logistics, and International Supply Chain Management.
      
         - title: Assistant Professor of Public Health Department
           company: University of Arkansas of Medical Science
           company_url: ''
           company_logo: org-x
-          location: California
+          location: Little Rock, AK
           date_start: 'January 2021'
           date_end: 'June 2021'
           description: Taught data mining in healthcare.
+    
+     - title: Research Associate in Department of Strategic Operations and Implementation
+          company: Mount Sinai Health System
+          company_url: ''
+          company_logo: 
+          location: Manhattan, NY
+          date_start: 'March 2017'
+          date_end: 'July 2019'
+          description: |2-
+             Collaborated with system-wide healthcare departments among 7 hospital campuses to assess their current processes using Lean Six Sigma, further identify opportunities in reducing non-value-added activities, optimizing staffing and appointment scheduling, and analyzing monthly performance reports.
+
+        - title: Lean Six Sigma Program Teaching Assistant
+          company: The State University of New York at Binghamton	
+          company_url: ''
+          company_logo: 
+          location: Binghamton, NY
+          date_start: 'January 2016'
+          date_end: 'December 2020'
+          description:
+             Facilitated and maintained 20 Lean Six Sigma Yellow Belt, Green Belt, and Black Belt programs for both industries and academic organizations. The program sizes range from 9 to 152.
+       
     design:
       columns: '2'
   - block: accomplishments
@@ -75,11 +97,11 @@ sections:
       items:
         - certificate_url: https://www.coursera.org
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: 'March 2018'
           description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          organization: Binghamton University
+          organization_url: https://www.binghamton.edu/watson/continuing-education/lean-six-sigma/blackbelt.html
+          title: Lean Six Sigma Black Belt
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
