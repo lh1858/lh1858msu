@@ -47,8 +47,7 @@ sections:
           location: Starkville, MS
           date_start: '2021-06-01'
           date_end: ''
-          description:
-             Taught online and face-to-face sessions of
+          description:|2-Taught online and face-to-face sessions of
              * Business Decision Analysis
              * Statistical Analysis and Business Decisions, International Logistics, and International Supply Chain Management.
         - title: Assistant Professor of Public Health Department
@@ -66,8 +65,7 @@ sections:
           location: Manhattan, NY
           date_start: '2017-03-01'
           date_end: '2019-07-01'
-          description:
-            Collaborated with system-wide healthcare departments among 7 hospital campuses to assess their current processes using Lean Six Sigma, further identifying opportunities in reducing non-value-added activities, optimizing staffing and appointment scheduling, and analyzing monthly performance reports.
+          description: Collaborated with system-wide healthcare departments among 7 hospital campuses to assess their current processes using Lean Six Sigma, further identifying opportunities in reducing non-value-added activities, optimizing staffing and appointment scheduling, and analyzing monthly performance reports.
         - title: Lean Six Sigma Program Teaching Assistant
           company: The State University of New York at Binghamton	
           company_url: ''
@@ -75,8 +73,7 @@ sections:
           location: Binghamton, NY
           date_start: '2016-01-01'
           date_end: '2020-12-01'
-          description:
-             Facilitated and maintained 20 Lean Six Sigma Yellow Belt, Green Belt, and Black Belt programs for both industries and academic organizations. The program sizes range from 9 to 152.   
+          description: Facilitated and maintained 20 Lean Six Sigma Yellow Belt, Green Belt, and Black Belt programs for both industries and academic organizations. The program sizes range from 9 to 152.   
     design:
       columns: '2'
   - block: accomplishments
