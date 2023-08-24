@@ -40,10 +40,10 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Faculty in Department of Marketing, Quantitative Analysis & Business Law
-          company: GenCoin
+          company: Mississippi State University
           company_url: ''
           company_logo: org-gc
-          location: California
+          location: Starkville, MS
           date_start: '2021-01-01'
           date_end: ''
           description: |2-
