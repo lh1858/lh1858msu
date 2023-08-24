@@ -29,7 +29,6 @@ sections:
           icon: camera-retro
           icon_pack: fas
 
-    
   - block: experience
     content:
       title: Experience
@@ -47,7 +46,7 @@ sections:
           company_url: ''
           company_logo: 
           location: Starkville, MS
-          date_start: 'June 2021'
+          date_start: '2021-06-01'
           date_end: ''
           description:
              Taught online and face-to-face sessions of Business Decision Analysis, Statistical Analysis and Business Decisions, International Logistics, and International Supply Chain Management.
@@ -57,8 +56,8 @@ sections:
           company_url: ''
           company_logo: org-x
           location: Little Rock, AK
-          date_start: 'January 2021'
-          date_end: 'June 2021'
+          date_start: '2021-01-01'
+          date_end: '2021-06-01'
           description: Taught data mining in healthcare.
     
      - title: Research Associate in Department of Strategic Operations and Implementation
@@ -66,8 +65,8 @@ sections:
           company_url: ''
           company_logo: 
           location: Manhattan, NY
-          date_start: 'March 2017'
-          date_end: 'July 2019'
+          date_start: '2017-03-01'
+          date_end: '2019-07-01'
           description: |2-
             * Collaborated with system-wide healthcare departments among 7 hospital campuses to assess their current processes using Lean Six Sigma, further identify opportunities in reducing non-value-added activities, optimizing staffing and appointment scheduling, and analyzing monthly performance reports.
 
@@ -76,8 +75,8 @@ sections:
           company_url: ''
           company_logo: 
           location: Binghamton, NY
-          date_start: 'January 2016'
-          date_end: 'December 2020'
+          date_start: '2016-01-01'
+          date_end: '2020-12-01'
           description:
              Facilitated and maintained 20 Lean Six Sigma Yellow Belt, Green Belt, and Black Belt programs for both industries and academic organizations. The program sizes range from 9 to 152.
        
@@ -98,7 +97,7 @@ sections:
       items:
         - certificate_url: https://www.coursera.org
           date_end: ''
-          date_start: 'March 2018'
+          date_start: '2018-03-01'
           description: ''
           organization: Binghamton University
           organization_url: https://www.binghamton.edu/watson/continuing-education/lean-six-sigma/blackbelt.html
