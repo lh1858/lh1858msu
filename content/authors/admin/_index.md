@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Instructor of Supply Chain Management
+role: Faculty of Supply Chain Management
 
 # Organizations/Affiliations to show in About widget
 organizations:
