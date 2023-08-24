@@ -49,9 +49,10 @@ sections:
           description: |2-
               Taught both online and face-to-face courses include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Business Decision Analysis
+              * Statistical Analysis and Business Decisions 
+              * International Logistics
+              * International Supply Chain Management 
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
