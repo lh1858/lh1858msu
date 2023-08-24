@@ -34,7 +34,7 @@ sections:
       title: Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
+      # date_format: Jan 2006
       # Experiences.
       #   Add/remove as many `experience` items below as you like.
       #   Required fields are `title`, `company`, and `date_start`.
@@ -68,7 +68,8 @@ sections:
           date_start: '2017-03-01'
           date_end: '2019-07-01'
           description: |2-
-            * Collaborated with system-wide healthcare departments among 7 hospital campuses to assess their current processes using Lean Six Sigma, further identify opportunities in reducing non-value-added activities, optimizing staffing and appointment scheduling, and analyzing monthly performance reports.
+            * Collaborated with system-wide healthcare departments among 7 hospital campuses to assess their current processes using Lean Six Sigma, further identifying opportunities in reducing non-value-added activities, optimizing staffing and appointment scheduling, and analyzing monthly performance reports.
+       * Collaborated with system-wide healthcare departments among 7 hospital campuses to assess their current processes using Lean Six Sigma, further identifying opportunities in reducing non-value-added activities, optimizing staffing and appointment scheduling, and analyzing monthly performance reports.
 
         - title: Lean Six Sigma Program Teaching Assistant
           company: The State University of New York at Binghamton	
