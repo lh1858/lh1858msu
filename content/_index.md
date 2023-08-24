@@ -39,7 +39,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Faculty in Department of Marketing, Quantitative Analysis & Business Law
+        - title: Faculty of Department of Marketing, Quantitative Analysis & Business Law
           company: Mississippi State University
           company_url: ''
           company_logo: org-gc
@@ -53,14 +53,14 @@ sections:
               * Statistical Analysis and Business Decisions 
               * International Logistics
               * International Supply Chain Management 
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Assistant Professor of Public Health Department
+          company: University of Arkansas of Medical Science
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Little Rock, AR
+          date_start: '2021-01-01'
+          date_end: '2021-06-01'
+          description: Taught data mining in healthcare.
     design:
       columns: '2'
   - block: accomplishments
