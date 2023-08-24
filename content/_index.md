@@ -28,7 +28,6 @@ sections:
           description: 90%
           icon: camera-retro
           icon_pack: fas
-
   - block: experience
     content:
       title: Experience
