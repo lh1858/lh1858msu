@@ -47,9 +47,10 @@ sections:
           location: Starkville, MS
           date_start: '2021-06-01'
           date_end: ''
-          description:
-             Taught online and face-to-face sessions of Business Decision Analysis, Statistical Analysis and Business Decisions, International Logistics, and International Supply Chain Management.
-     
+          description: |2-
+             Taught online and face-to-face sessions of
+             * Business Decision Analysis
+             * Statistical Analysis and Business Decisions, International Logistics, and International Supply Chain Management.
         - title: Assistant Professor of Public Health Department
           company: University of Arkansas of Medical Science
           company_url: ''
@@ -58,7 +59,6 @@ sections:
           date_start: '2021-01-01'
           date_end: '2021-06-01'
           description: Taught data mining in healthcare.
-    
         - title: Research Associate in Department of Strategic Operations and Implementation
           company: Mount Sinai Health System
           company_url: ''
@@ -66,10 +66,8 @@ sections:
           location: Manhattan, NY
           date_start: '2017-03-01'
           date_end: '2019-07-01'
-          description: |2-
-            * Collaborated with system-wide healthcare departments among 7 hospital campuses to assess their current processes using Lean Six Sigma, further identifying opportunities in reducing non-value-added activities, optimizing staffing and appointment scheduling, and analyzing monthly performance reports.
-       * Collaborated with system-wide healthcare departments among 7 hospital campuses to assess their current processes using Lean Six Sigma, further identifying opportunities in reducing non-value-added activities, optimizing staffing and appointment scheduling, and analyzing monthly performance reports.
-
+          description:
+            Collaborated with system-wide healthcare departments among 7 hospital campuses to assess their current processes using Lean Six Sigma, further identifying opportunities in reducing non-value-added activities, optimizing staffing and appointment scheduling, and analyzing monthly performance reports.
         - title: Lean Six Sigma Program Teaching Assistant
           company: The State University of New York at Binghamton	
           company_url: ''
