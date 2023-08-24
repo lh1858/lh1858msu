@@ -28,10 +28,7 @@ sections:
           description: 90%
           icon: camera-retro
           icon_pack: fas
-        - name: CPLEX
-         description: 90%
-          icon: camera-retro
-          icon_pack: fas
+
     
   - block: experience
     content:
@@ -72,7 +69,7 @@ sections:
           date_start: 'March 2017'
           date_end: 'July 2019'
           description: |2-
-             Collaborated with system-wide healthcare departments among 7 hospital campuses to assess their current processes using Lean Six Sigma, further identify opportunities in reducing non-value-added activities, optimizing staffing and appointment scheduling, and analyzing monthly performance reports.
+            * Collaborated with system-wide healthcare departments among 7 hospital campuses to assess their current processes using Lean Six Sigma, further identify opportunities in reducing non-value-added activities, optimizing staffing and appointment scheduling, and analyzing monthly performance reports.
 
         - title: Lean Six Sigma Program Teaching Assistant
           company: The State University of New York at Binghamton	
