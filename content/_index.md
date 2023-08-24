@@ -44,10 +44,10 @@ sections:
           company_url: ''
           company_logo: org-gc
           location: Starkville, MS
-          date_start: '2021-01-01'
+          date_start: '2021-06-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
+              Taught both online and face-to-face courses include:
 
               * Analysing
               * Modelling
