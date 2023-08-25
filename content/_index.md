@@ -74,14 +74,6 @@ sections:
               * Clean and analyze clinical data using Excel, Minitab, Access, and Python
               * Devise optimization tools (Excel Solver) and simulation models (Simio) to enhance scheduling accuracy and process efficiencies
               * Developed reports/dashboards (Excel/Access) to track clinical performance 
-   #     - title: Lean Six Sigma Program Teaching Assistant
-   #       company: the State University of New York at Binghamton
-   #       company_url: ''
-   #       company_logo: org-x
-   #       location: Binghamton, NY
-   #       date_start: '2016-01-01'
-  #        date_end: '2020-12-01'
-    #      description: Facilitated and maintained 20 Lean Six Sigma Yellow Belt, Green Belt, and Black Belt programs for both industries and academic organizations. The program sizes range from 9 to 152.
      design:
       columns: '2'
   - block: accomplishments
