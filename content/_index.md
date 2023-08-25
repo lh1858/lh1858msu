@@ -39,28 +39,6 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Faculty of Department of Marketing, Quantitative Analysis & Business Law
-          company: Mississippi State University
-          company_url: ''
-          company_logo: org-gc
-          location: Starkville, MS
-          date_start: '2021-06-01'
-          date_end: ''
-          description: |2-
-              Taught both online and face-to-face courses include:
-
-              * Business Decision Analysis
-              * Statistical Analysis and Business Decisions 
-              * International Logistics
-              * International Supply Chain Management 
-        - title: Assistant Professor of Public Health Department
-          company: University of Arkansas of Medical Science
-          company_url: ''
-          company_logo: org-x
-          location: Little Rock, AR
-          date_start: '2021-01-01'
-          date_end: '2021-06-01'
-          description: Taught data mining in healthcare.
         - title: Research Associate of Department of Strategic Operations and Implementation
           company: Mount Sinai Health System
           company_url: ''
@@ -82,7 +60,23 @@ sections:
           date_start: '2021-01-01'
           date_end: '2021-06-01'
           description: Taught data mining in healthcare.
-     design:
+        - title: Lean Six Sigma Program Teaching Assistant
+          company: State University of New York at Binghamton
+          company_url: ''
+          company_logo: org-gc
+          location: Binghamton, NY
+          date_start: '2016-01-01'
+          date_end: '2020-12-01'
+          description: Facilitated over 20 Lean Six Sigma Yellow Belt, Green Belt, and Black Belt programs for both industries and academic organizations. The program sizes range from 9 to 152.
+        - title: Professor of Semiconductor Physics
+          company: University X
+          company_url: ''
+          company_logo: org-x
+          location: California
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
+          description: Taught electronic engineering and researched semiconductor physics.
+    design:
       columns: '2'
   - block: accomplishments
     content:
