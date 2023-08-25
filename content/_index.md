@@ -61,14 +61,19 @@ sections:
           date_start: '2021-01-01'
           date_end: '2021-06-01'
           description: Taught data mining in healthcare.
-        - title: Assistant Professor of Public Health Department
-          company: University of Arkansas of Medical Science
+        - title: Research Associate of Department of Strategic Operations and Implementation
+          company: Mount Sinai Health System
           company_url: ''
           company_logo: org-x
-          location: Little Rock, AR
-          date_start: '2021-01-01'
-          date_end: '2021-06-01'
-          description: Taught data mining in healthcare.
+          location: Manhattan, NY
+          date_start: '2017-03-01'
+          date_end: '2019-07-01'
+          description: |2-
+              Conducted continuous improvement projects for various healthcare departments among seven hospital campuses, my responsibilities include:
+
+              * Clean and analyze clinical data using Excel, Minitab, Access, and Python
+              * Devise optimization tools (Excel Solver) and simulation models (Simio) to enhance scheduling accuracy and process efficiencies
+              * Developed reports/dashboards (Excel/Access) to track clinical performance 
     design:
       columns: '2'
   - block: accomplishments
