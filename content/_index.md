@@ -39,6 +39,28 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Faculty of Department of Marketing, Quantitative Analysis & Business Law
+          company: Mississippi State University
+          company_url: ''
+          company_logo: org-gc
+          location: Starkville, MS
+          date_start: '2021-06-01'
+          date_end: ''
+          description: |2-
+              Taught both online and face-to-face courses include:
+
+              * Business Decision Analysis
+              * Statistical Analysis and Business Decisions 
+              * International Logistics
+              * International Supply Chain Management 
+        - title: Assistant Professor of Public Health Department
+          company: University of Arkansas of Medical Science
+          company_url: ''
+          company_logo: org-x
+          location: Little Rock, AR
+          date_start: '2021-01-01'
+          date_end: '2021-06-01'
+          description: Taught data mining in healthcare.
         - title: Research Associate of Department of Strategic Operations and Implementation
           company: Mount Sinai Health System
           company_url: ''
@@ -52,14 +74,6 @@ sections:
               * Clean and analyze clinical data using Excel, Minitab, Access, and Python
               * Devise optimization tools (Excel Solver) and simulation models (Simio) to enhance scheduling accuracy and process efficiencies
               * Developed reports/dashboards (Excel/Access) to track clinical performance
-        - title: Assistant Professor of Public Health Department
-          company: University of Arkansas of Medical Science
-          company_url: ''
-          company_logo: org-x
-          location: Little Rock, AR
-          date_start: '2021-01-01'
-          date_end: '2021-06-01'
-          description: Taught data mining in healthcare.
         - title: Lean Six Sigma Program Teaching Assistant
           company: State University of New York at Binghamton
           company_url: ''
