@@ -73,7 +73,15 @@ sections:
 
               * Clean and analyze clinical data using Excel, Minitab, Access, and Python
               * Devise optimization tools (Excel Solver) and simulation models (Simio) to enhance scheduling accuracy and process efficiencies
-              * Developed reports/dashboards (Excel/Access) to track clinical performance 
+              * Developed reports/dashboards (Excel/Access) to track clinical performance
+        - title: Assistant Professor of Public Health Department
+          company: University of Arkansas of Medical Science
+          company_url: ''
+          company_logo: org-x
+          location: Little Rock, AR
+          date_start: '2021-01-01'
+          date_end: '2021-06-01'
+          description: Taught data mining in healthcare.
      design:
       columns: '2'
   - block: accomplishments
