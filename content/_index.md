@@ -135,8 +135,8 @@ sections:
           url: ''
     design:
       columns: '2'
-  - block: collection
-    id: posts
+#  - block: collection
+#    id: posts
 #    content:
 #      title: Recent Posts
 #      subtitle: ''
