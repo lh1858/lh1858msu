@@ -80,5 +80,5 @@ email: 'lhe@business.msstate.edu'
 highlight_name: true
 ---
 
-Dr. Lu He is an Instructor of Supply Chain Management in the Department of Marketing, Quantitative Analysis, and Business Law. Dr. He is a fellow of Community Engaged Learning and has taught courses in supply chain management, data mining, statistics and business decision analysis. Her research interests include systematically optimizing resources through multi-task prediction and predictive-driven mixed integer programming, decision support systems, and strategic planning.
+Dr. Lu He is a faculty of Supply Chain Management in the Department of Marketing, Quantitative Analysis, and Business Law. Dr. He is a fellow of Community Engaged Learning and has taught courses in supply chain management, data mining, statistics and business decision analysis. Her research interests include systematically optimizing resources through multi-task prediction and predictive-driven mixed integer programming, decision support systems, and strategic planning.
 {style="text-align: justify;"}
