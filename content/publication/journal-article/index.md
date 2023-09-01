@@ -30,7 +30,7 @@ highlights: Proposes an ANN-based MTL model for predicting inpatient flow and LO
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
