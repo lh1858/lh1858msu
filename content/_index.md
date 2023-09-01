@@ -27,7 +27,15 @@ sections:
           description: 90%
           icon: camera-retro
           icon_pack: fas
-        - name: MatLab
+        - name: MATLAB
+          description: 90%
+          icon: camera-retro
+          icon_pack: fas
+        - name: CPLEX
+          description: 90%
+          icon: camera-retro
+          icon_pack: fas
+        - name: Tableau
           description: 90%
           icon: camera-retro
           icon_pack: fas
