@@ -117,21 +117,21 @@ sections:
           organization_url: https://www.citiprogram.org
           title: Social/Behavioral Research Course 
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: https://www.binghamton.edu/watson/continuing-education/lean-six-sigma/blackbelt.html
           date_end: ''
           date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
+          description: ''
+          organization: The State University of New York at Binghamton   
+          organization_url: https://www.binghamton.edu/watson/
+          title: Lean Six Sigma Black Belt Certified
+          url: ''
+        - certificate_url: https://www.ccel.msstate.edu/faculty/workshops/#
           date_end: '2020-12-21'
           date_start: '2020-07-01'
           description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          organization: Mississippi State University
+          organization_url: https://www.ccel.msstate.edu/faculty/workshops/
+          title: MSU Community-Engaged Learning Faculty Fellowship
           url: ''
     design:
       columns: '2'
