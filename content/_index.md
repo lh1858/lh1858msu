@@ -27,6 +27,10 @@ sections:
           description: 90%
           icon: camera-retro
           icon_pack: fas
+        - name: MatLab
+          description: 90%
+          icon: camera-retro
+          icon_pack: fas
   - block: experience
     content:
       title: Experience
