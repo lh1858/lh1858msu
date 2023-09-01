@@ -16,7 +16,7 @@ abstract: "This study proposes a mixed-integer programming model to optimize
   cost remains nearly unchanged. We show the effectiveness of the proposed
   approach for handling the surgery cancellation problem in operating room
   systems with high surgery demands."
-slides: example
+# slides: example
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 publication_types:
   - "2"
@@ -33,23 +33,23 @@ tags:
 projects:
   - internal-project
 summary: ""
-url_dataset: "#"
-url_project: ""
-publication_short: ""
-url_source: "#"
-url_video: "#"
-date: 2019-04-07T00:00:00Z
-url_slides: ""
-links:
-  - name: Custom Link
-    url: http://example.org
-image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)"
-  focal_point: ""
-  preview_only: false
-publishDate: 2017-01-01T00:00:00Z
-url_poster: "#"
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
+# url_dataset: "#"
+# url_project: ""
+# publication_short: ""
+# url_source: "#"
+# url_video: "#"
+# date: 2019-04-07T00:00:00Z
+# url_slides: ""
+# links:
+#   - name: Custom Link
+#     url: http://example.org
+# image:
+#  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)"
+#  focal_point: ""
+#  preview_only: false
+# publishDate: 2017-01-01T00:00:00Z
+# url_poster: "#"
+# url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 doi: " https://doi.org/10.1080/21681015.2021.2017362"
 ---
 
