@@ -109,13 +109,13 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
+        - certificate_url: https://www.citiprogram.org/verify/?we8be31e4-f93d-461e-82f7-835f52fc0cb8-40892293
+          date_end: '2024-02-01'
+          date_start: '2021-02-01'
           description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          organization: CITI Program
+          organization_url: https://www.citiprogram.org
+          title: Social/Behavioral Research Course 
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
